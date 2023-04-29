@@ -1,6 +1,6 @@
 #!/bin/sh
 
-MODEL=GT-AXE16000
+MODEL=GT-AXE11000
 SDK=arm_4912hnd
 
 # Set to 1 to create NEW SDK directories
